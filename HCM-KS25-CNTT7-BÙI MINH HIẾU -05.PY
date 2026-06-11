@@ -26,12 +26,19 @@ def add_work():
     new_date = input("Nhập ngày dự kiến ")
     new_compl = input("Nhập số thực tế")
 
-def update_list(employment):
+def update_listl):
     
         
         
+def delete_job():
+    if not labour:
+        print("danh sách hiện đang trống")
+        return
+    employment_serch = input("Nhập id nhân viên cần tìm")   
+
+def job_search()     
         
-             
+        
 def menu ():
     while True:
         print("_____________Quản lý công việc___________")
@@ -68,3 +75,4 @@ def menu ():
                 case _:
                     print("Vui lòng nhập lại")
     
+               
