@@ -31,8 +31,7 @@ def update_list(employment):
         
         
         
-        
-        
+             
 def menu ():
     while True:
         print("_____________Quản lý công việc___________")
